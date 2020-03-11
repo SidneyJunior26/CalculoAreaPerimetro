@@ -1,0 +1,10 @@
+C:\Users\sidne\Documents\Faculdade\Linguagens de Programação (Fábio)\Calculo de Area e Perimetro\Calculo de Area e Perimetro\bin\Debug\Calculo de Area e Perimetro.exe.config
+C:\Users\sidne\Documents\Faculdade\Linguagens de Programação (Fábio)\Calculo de Area e Perimetro\Calculo de Area e Perimetro\bin\Debug\Calculo de Area e Perimetro.exe
+C:\Users\sidne\Documents\Faculdade\Linguagens de Programação (Fábio)\Calculo de Area e Perimetro\Calculo de Area e Perimetro\bin\Debug\Calculo de Area e Perimetro.pdb
+C:\Users\sidne\Documents\Faculdade\Linguagens de Programação (Fábio)\Calculo de Area e Perimetro\Calculo de Area e Perimetro\obj\Debug\Calculo de Area e Perimetro.csprojAssemblyReference.cache
+C:\Users\sidne\Documents\Faculdade\Linguagens de Programação (Fábio)\Calculo de Area e Perimetro\Calculo de Area e Perimetro\obj\Debug\Calculo_de_Area_e_Perimetro.Form1.resources
+C:\Users\sidne\Documents\Faculdade\Linguagens de Programação (Fábio)\Calculo de Area e Perimetro\Calculo de Area e Perimetro\obj\Debug\Calculo_de_Area_e_Perimetro.Properties.Resources.resources
+C:\Users\sidne\Documents\Faculdade\Linguagens de Programação (Fábio)\Calculo de Area e Perimetro\Calculo de Area e Perimetro\obj\Debug\Calculo de Area e Perimetro.csproj.GenerateResource.cache
+C:\Users\sidne\Documents\Faculdade\Linguagens de Programação (Fábio)\Calculo de Area e Perimetro\Calculo de Area e Perimetro\obj\Debug\Calculo de Area e Perimetro.csproj.CoreCompileInputs.cache
+C:\Users\sidne\Documents\Faculdade\Linguagens de Programação (Fábio)\Calculo de Area e Perimetro\Calculo de Area e Perimetro\obj\Debug\Calculo de Area e Perimetro.exe
+C:\Users\sidne\Documents\Faculdade\Linguagens de Programação (Fábio)\Calculo de Area e Perimetro\Calculo de Area e Perimetro\obj\Debug\Calculo de Area e Perimetro.pdb
